@@ -1,0 +1,20 @@
+{
+  "name": "teamcodeand/yith-roots-config",
+  "type": "wordpress-muplugin",
+  "license": "MIT",
+  "description": "Configure system status variables for YITH plugins with Roots Trellis/Bedrock",
+  "authors": [
+    {
+      "name": "Dale Grant",
+      "email": "dale@codeand.com.au",
+      "homepage": "https://www.codeand.com.au/",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "wordpress", "yith", "roots", "trellis", "bedrock"
+  ],
+  "support": {
+    "issues": "https://github.com/teamcodeand/yith-roots-config/issues"
+  }
+}
